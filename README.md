@@ -38,9 +38,9 @@ uv add python-dotenv
 ```
 ### PASTIIN SEMUA SUDAH MASUK KE DEPENDENCIES KALIAN
 
-![alt text](image.png)
+![alt text](app/assets/image.png)
 
 ### KALAU UDA BERJALAN PASTI ADA KONFIRMASI KALAU KALIAN SUDAH TERKONEKSI KE DATABASE MASING2
 
-![alt text](image-1.png)
+![alt text](app/assets/image-1.png)
 
